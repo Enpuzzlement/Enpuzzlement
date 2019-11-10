@@ -6153,7 +6153,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "110rem",
+              "height": "120rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
