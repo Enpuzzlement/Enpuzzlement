@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EnPuzzlement",
-    "currentPage": "page7.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 124,
+    "uniqCompNum": 131,
     "versionPublish": "4.10.15",
     "favicon": "@PROJECT_PATH@/assets/images/mini-logo-app-icon-128x128.png",
     "noImageResize": "",
@@ -1963,7 +1963,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "85rem",
+              "height": "75rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
@@ -6153,7 +6153,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "120rem",
+              "height": "105rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
@@ -6162,7 +6162,7 @@
               "[data-state-details]": {
                 "color": "#6b6763",
                 "font-family": "Montserrat",
-                "height": "1.25em",
+                "height": "1.0em",
                 "margin-top": "-0.75em",
                 "padding-left": "1.25rem",
                 "padding-right": "1.25rem",
@@ -6183,11 +6183,11 @@
             }
           },
           "_name": "map2",
-          "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdRCjiIkr4DHszz0RJwCK7PpGPWlScxls66S9D3D6jz_wW6Kw/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;1747&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;>Loading…</iframe>\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\"> \n            <div class=\"col-md-12\">\n                <div class=\"google-map\" mbr-map=\"googleMap\" mbr-style=\"{'width':imageSize+'%'}\">\n            </div>\n        </div>\n    </div>\n</div></section>",
-          "_anchor": "map2-3e",
+          "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"3\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdRCjiIkr4DHszz0RJwCK7PpGPWlScxls66S9D3D6jz_wW6Kw/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;1747&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;>Loading…</iframe>\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\"> \n            <div class=\"col-md-12\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_anchor": "map2-3m",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rHo8wB9l8d",
+          "_cid": "rHoMWASJeY",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
