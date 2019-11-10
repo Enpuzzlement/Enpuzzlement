@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EnPuzzlement",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 131,
+    "uniqCompNum": 134,
     "versionPublish": "4.10.15",
     "favicon": "@PROJECT_PATH@/assets/images/mini-logo-app-icon-128x128.png",
     "noImageResize": "",
@@ -5464,29 +5464,53 @@
           "_params": {}
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebookToken": "EAAE777VYAAMBAA4WLqLx3oNdgUsoT3JrKzNWxVJlzkfaAq5J4zHsutc5UJGsvQq0Wf0oqjeZCO8ZByN8HzMAn8BDxsjg0KpjVLnuGyZA04QR6u9wsKFZBAP9GpzZA2llZBdYQqBbQeLVjpGfAxgUyY99uEuIzurM7nSG9EuQpSfgZDZD",
-            "facebook": "@10162966076915599",
-            "twitter": "",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".google-map": {
+              "height": "50rem",
+              "position": "relative",
+              "iframe": {
+                "height": "100%",
+                "width": "100%"
+              },
+              "[data-state-details]": {
+                "color": "#6b6763",
+                "font-family": "Montserrat",
+                "height": "1.25em",
+                "margin-top": "-0.75em",
+                "padding-left": "1.25rem",
+                "padding-right": "1.25rem",
+                "position": "absolute",
+                "text-align": "center",
+                "top": "50%",
+                "width": "100%"
+              },
+              "&[data-state]": {
+                "background": "#e9e5dc"
+              },
+              "&[data-state=\"loading\"]": {
+                "[data-state-details]": {
+                  "display": "none"
+                },
+                "&::after": {}
+              }
+            }
           },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-3d"
+          "_name": "map2",
+          "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEnPuzzlement-339119922015%2F&amp;tabs=timeline%2C%20events&amp;width=340&amp;height=1000&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId&quot; width=&quot;340&quot; height=&quot;1000&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;></iframe>\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\"> \n            <div class=\"col-md-4\">\n                <div class=\"google-map\" mbr-map=\"googleMap\" mbr-style=\"{'width':imageSize+'%'}\">\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_anchor": "map2-3p",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rHp6QmAvJh",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "_params": {
