@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EnPuzzlement",
-    "currentPage": "Contact.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1963,7 +1963,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "75rem",
+              "height": "85rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
@@ -6153,7 +6153,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "105rem",
+              "height": "110rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
