@@ -5245,13 +5245,21 @@ section.lazy-placeholder:after {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-rHp6QmAvJh {
+.cid-rHqJtWU6ho {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rHqJtWU6ho .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rHp6QmAvJh {
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rHp6QmAvJh .google-map {
-  height: 70rem;
+  height: 60rem;
   position: relative;
 }
 .cid-rHp6QmAvJh .google-map iframe {
