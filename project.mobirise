@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 136,
+    "uniqCompNum": 138,
     "versionPublish": "4.10.15",
     "favicon": "@PROJECT_PATH@/assets/images/mini-logo-app-icon-128x128.png",
     "noImageResize": "",
