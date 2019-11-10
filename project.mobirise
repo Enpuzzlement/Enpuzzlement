@@ -1998,12 +1998,12 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rHob2OHMnq",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_styles": {
@@ -6136,7 +6136,7 @@
             }
           },
           "_name": "map2",
-          "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"8\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://calendar.google.com/calendar/embed?src=enpuzzlement2009%40gmail.com&amp;ctz=America%2FNew_York&quot; style=&quot;border: 0&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;></iframe>\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\"> \n            <div class=\"col-md-12\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"8\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://calendar.google.com/calendar/embed?height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;ctz=America%2FNew_York&amp;amp;src=ZW5wdXp6bGVtZW50MjAwOUBnbWFpbC5jb20&amp;amp;color=%233366CC&amp;amp;mode=MONTH&amp;amp;showTabs=1&amp;amp;showPrint=0&amp;amp;showDate=1&amp;amp;showNav=1&amp;amp;showTitle=0&amp;amp;showTz=0&amp;amp;showCalendars=0&quot; style=&quot;border-width:0&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;></iframe>\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\"> \n            <div class=\"col-md-12\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_anchor": "map2-24",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -6188,12 +6188,12 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rHoMWASJeY",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_styles": {
