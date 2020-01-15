@@ -54,9 +54,9 @@
     "screenshot": "screenshot.png",
     "robotsText": "https://enpuzzlement.netlify.com/sitemap.xml\n\nUser-agent: *\nDisallow: \n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": false,
+    "siteUrl": "https://www.enpuzzlement.org/",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "PWA": {
       "enabled": true,
       "name": "",
