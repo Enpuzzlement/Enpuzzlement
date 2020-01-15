@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EnPuzzlement",
-    "currentPage": "Calender.html",
+    "currentPage": "Inventory.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -697,7 +697,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "130rem",
+              "height": "140rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
@@ -4790,7 +4790,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".google-map": {
-              "height": "130rem",
+              "height": "120rem",
               "position": "relative",
               "iframe": {
                 "height": "100%",
