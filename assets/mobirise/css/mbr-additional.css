@@ -3410,18 +3410,6 @@ section.lazy-placeholder:after {
 .cid-rU6Oc5k5Ca .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rJQCmzqhsx {
-  background: #ffffff;
-}
-.cid-rJQCmzqhsx .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rJQCmzqhsx .video-block {
-    width: 100% !important;
-  }
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -3985,20 +3973,15 @@ section.lazy-placeholder:after {
 .cid-rHp6QmAvJh .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-#instagram-feed-block-3b .inst__title {
-  color: #ffffff;
+.cid-rJQCmzqhsx {
+  background: #ffffff;
 }
-.cid-rHWvbcI60B {
-  background: #149dcc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #232323);
-}
-.cid-rHWvbcI60B .video-block {
+.cid-rJQCmzqhsx .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rHWvbcI60B .video-block {
+  .cid-rJQCmzqhsx .video-block {
     width: 100% !important;
   }
 }
