@@ -3119,13 +3119,14 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn P": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "header1",
